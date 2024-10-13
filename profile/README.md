@@ -99,10 +99,18 @@ StreamX is a universal streaming protocol designed to consolidate events from li
 
 ## Current Status
 
-| Platform | Followers | Subscriptions | Donations | Messages | Rewards Redemption | New Viewers | Views |
-|----------|-----------|---------------|-----------|----------|--------------------|-------------|-------|
-| YouTube  | No        | Yes (Members) | Yes       | Yes      | Not applicable     | Not applicable | No (Planned) |
-| Twitch   | Yes       | Yes           | Yes (Bits)| Yes      | Yes (Channel Points)| Not applicable | Yes   |
-| Kick     | No        | No (Planned)  | No (Planned) | Yes   | Not applicable     | Not applicable | No (Planned) |
-| TikTok   | Yes       | Not applicable | Yes (Stickers) | Yes | Not applicable     | Yes         | Yes   |
-| X        | No        | Not applicable | Not applicable | Yes | Not applicable     | Not applicable | Yes   |
+| Platform       |  Followers  |  Subscriptions  |  Donations  |  Messages  |  Rewards redemption  |  New viewers  |  Views  |
+|----------------|:-----------:|:---------------:|:-----------:|:----------:|:--------------------:|:-------------:|:-------:|
+| YouTube        |      ❌     |        ✅       |      ✅     |     ✅     |          ❌          |       ❌      |    ❌   |
+| Twitch         |      ✅     |        ✅       |      ✅     |     ✅     |          ✅          |       ❌      |    ✅   |
+| Kick           |      ❌     |        ❌       |      ❌     |     ✅     |          ❌          |       ❌      |    ❌   |
+| TikTok         |      ✅     |        ➖       |      ✅     |     ✅     |          ❌          |       ✅      |    ✅   |
+| X              |      ❌     |        ➖       |      ❌     |     ✅     |          ❌          |       ❌      |    ✅   |
+
+
+
+| emoji   | meaning                 |
+| :-----: | :---------------------- |
+| ✅      | supported               |
+| ➖      | impossible/unreasonable |
+| ❌      | not supported           |
